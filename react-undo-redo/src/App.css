@@ -1,0 +1,31 @@
+#root {
+    margin: 0;
+}
+
+.App {
+    height: 100vh;
+}
+
+.point {
+    display: inline-block;
+    position: absolute;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: red;
+}
+
+.button {
+    background-color: #f6ca9e;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px;
+    color: black;
+    text-transform: uppercase;
+    border-radius: 10px;
+    cursor: pointer;
+}
